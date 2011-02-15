@@ -7,7 +7,7 @@
 		public function Main()
 		{
 			// Launch your application by right clicking within this class and select: Deubg As > FDT SWF Application
-			trace("something form github");
+			trace("somedfgdfgthing form github");
 		}
 	}
 }
